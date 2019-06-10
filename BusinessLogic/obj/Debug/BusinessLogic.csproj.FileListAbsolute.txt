@@ -1,0 +1,10 @@
+C:\Users\hibs1\source\MarketInvoice\MarketInvoice\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\hibs1\source\MarketInvoice\MarketInvoice\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\hibs1\source\MarketInvoice\MarketInvoice\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\hibs1\source\MarketInvoice\MarketInvoice\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\hibs1\source\MarketInvoice\MarketInvoice\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\hibs1\Dropbox\MarketInvoice\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\hibs1\Dropbox\MarketInvoice\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\hibs1\Dropbox\MarketInvoice\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\hibs1\Dropbox\MarketInvoice\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\hibs1\Dropbox\MarketInvoice\BusinessLogic\obj\Debug\BusinessLogic.pdb
